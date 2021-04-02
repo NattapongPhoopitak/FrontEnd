@@ -4,6 +4,8 @@ Tech Stack ที่จำเป็น
 
 • PHP
 
+• Mysql
+
 • CSS
 
 • HTML
